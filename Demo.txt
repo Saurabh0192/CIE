@@ -1,1 +1,1 @@
-"This is the file send to the cie repo using command promptt" 
+This is the text document. This document will be pushed from local repository to the online repository.
